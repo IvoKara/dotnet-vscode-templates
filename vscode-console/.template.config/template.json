@@ -2,9 +2,9 @@
     "$schema": "https://json.schemastore.org/template",
     "author": "@IvoK",
     "classifications": [
+        "VSCode",
         "Commmon",
-        "Console",
-        "VSCode"
+        "Console"
     ],
     "identity": "VSCodeConsole",
     "name": "VSCode template Console App",
