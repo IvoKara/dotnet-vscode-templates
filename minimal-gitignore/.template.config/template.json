@@ -1,0 +1,14 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "@IvoK",
+    "classifications": [
+        "Minimal",
+        "Config"
+    ],
+    "identity": "MinimalGitignore",
+    "name": "Minimal gitignore for .NET Console App",
+    "shortName": "minimal-gitignore",
+    "tags": {
+        "type": "item"
+    }
+}
