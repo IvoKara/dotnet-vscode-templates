@@ -14,5 +14,15 @@
     "tags": {
         "language": "C#",
         "type": "project"
-    }
+    },
+    "sources": [
+        {
+            "source": "./",
+            "target": "./"
+        },
+        {
+            "source": "./.vscode/",
+            "target": "./.vscode/"
+        }
+    ]
 }
