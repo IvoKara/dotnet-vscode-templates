@@ -1,0 +1,18 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "@IvoK",
+    "classifications": [
+        "Commmon",
+        "Console",
+        "VSCode"
+    ],
+    "identity": "VSCodeConsole",
+    "name": "VSCode template Console App",
+    "shortName": "vscode-console",
+    "preferNameDirectory": true,
+    "sourceName": "vscode-console",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
